@@ -15,23 +15,36 @@ p, li {
 }
 
 html {
-  background-color: #00539F;
+  background-color: #6e777d;
 }
 
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #FF9500;
+  background-color: #a9b3ba;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
-h1 {
+#nameID{
   margin: 0;
   padding: 20px 0;
-  color: #00539F;
+  color: #5b8f69;
   text-shadow: 3px 3px 1px black;
 }
 img {
   display: block;
-  margin: 0 auto;
+  margin: 20px auto;
+  border: 20;
+}
+
+#aboutMe{
+  font-weight: 700;
+  font-size: 20px;
+  text-decoration: underline;
+
+}
+
+#description{
+  font-weight: 700;
+  font-size: 15px;
 }
